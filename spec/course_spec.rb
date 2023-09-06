@@ -29,5 +29,9 @@ RSpec.describe Course do
     expect(course.full?).to eq(true)
   end
 
+  it 'list all students in a course' do
+    
+  end
+
 
 end
